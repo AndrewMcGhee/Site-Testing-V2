@@ -1,17 +1,11 @@
-==============
-IGVC 2024 - Horizon
-==============
+Horizon
+=======
 
-Introduction
-------------
+.. toctree::
+    :maxdepth: 1
+    :caption: IGVC 2024 - "Horizon"
 
-This is the IGVC 2024 - Horizon project page. 
+    electrical_project_1
+    software_project_1
+    mechanical_project_1
 
-Description
------------
-
-The IGVC 2024 - Horizon project aims to develop an autonomous ground vehicle for participation in the Intelligent Ground Vehicle Competition (IGVC). 
-
-Subpages
---------
-    

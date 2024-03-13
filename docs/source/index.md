@@ -1,7 +1,7 @@
-# I'm going to
+# I'm going to AUGH
 
 > **Note:**  
-> I want to die
+> I want to oof myself
 ![AUGH](RizzLogo.png)
 
 
@@ -10,3 +10,7 @@
 - [Fuck](Fuck.rst)
 - [This](This.rst)
 - [Shit](Shit.rst)
+
+---
+
+[Back to Index](index.md)

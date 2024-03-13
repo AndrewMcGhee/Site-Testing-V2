@@ -1,6 +1,6 @@
 # I'm going to
 
-:::note
+::: note
 > I want to die
 ![AUGH](RizzLogo.png)
 

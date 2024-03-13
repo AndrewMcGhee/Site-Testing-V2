@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'ORA DOCS PAGE'
+project = 'Robotics Association at Oakland University'
 copyright = '2024, AUUUGHHHH'
 author = 'me'
 

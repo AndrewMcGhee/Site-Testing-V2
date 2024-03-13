@@ -6,6 +6,7 @@ Projects
 --------
 
 - `IGVC 2024 - Horizon <#horizon>`_
+- `FUCK <#ah>`_
 =======
 Horizon
 =======
@@ -16,3 +17,12 @@ Horizon
 
    horizon
 
+=======
+FUCK
+=======
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+
+    horizon

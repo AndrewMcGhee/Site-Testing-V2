@@ -1,15 +1,12 @@
-# Welcome to My Documentation
+# I'm going to
 
-This is the home page of my documentation project.
+> **Note:**  
+> I want to die
+![AUGH](RizzLogo.png)
 
-## Table of Contents
-.. toctree::
-   Fuck.rst
-   This.rst
-   Shit.rst
 
-> **Note:** This is a note box. You can add important information or reminders here.
+## Contents
 
-## Additional Section
-
-Here you can add more content, instructions, or any other relevant information.
+- [Fuck](Fuck.rst)
+- [This](This.rst)
+- [Shit](Shit.rst)

@@ -1,15 +1,7 @@
-# I'm going to AUGH
-
-> **Note:**  
-> I want to oof myself
-![AUGH](RizzLogo.png)
+# *Robotics Association at Oakland University**
 
 
 ## Contents
-
-- [Fuck](Fuck.rst)
-- [This](This.rst)
-- [Shit](Shit.rst)
 
 ---
 

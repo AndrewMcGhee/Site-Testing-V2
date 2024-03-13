@@ -1,14 +1,15 @@
-I'm going to off myself
+# I'm going to off myself
 ===================================
 
-.. note::
+:::note
+I want to die
+:::
 
-   I want to die
+## Contents
+----------------
 
-Contents
---------
-
-.. toctree::
+```{toctree}
+   :maxdepth: 1
 
    Fuck
    This

@@ -15,12 +15,3 @@ Horizon
    :maxdepth: 2
 
    horizon
-
-=======
-FUCK
-=======
-
-.. toctree::
-    :maxdepth: 2
-
-    horizon

@@ -1,14 +1,15 @@
-Fuck You Linda!
+I'm going to off myself
 ===================================
 
 .. note::
 
-   This project is under active development.
+   I want to die
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Fuck
+   This
+   Shit

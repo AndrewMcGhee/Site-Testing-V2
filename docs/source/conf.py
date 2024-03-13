@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'FUCK'
-copyright = '2024, I want to die'
-author = 'This fuck head'
+project = 'ORA DOCS PAGE'
+copyright = '2024, AUUUGHHHH'
+author = 'me'
 
 release = '0.1'
 version = '0.1.0'
@@ -14,7 +14,7 @@ version = '0.1.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
+    'sphinx.ext.autodoc',A
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',

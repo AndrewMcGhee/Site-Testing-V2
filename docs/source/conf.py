@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',
-    "sphinx_favicon",
 ]
 
 myst_enable_extensions = ["colon_fence"]

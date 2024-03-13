@@ -1,5 +1,5 @@
 ==============
-Mechanical Project 1
+Yourself
 ==============
 
 Introduction

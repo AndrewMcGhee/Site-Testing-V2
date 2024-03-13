@@ -2,6 +2,8 @@
 
 > **Note:**  
 > I want to die
+![AUGH](RizzLogo.png)
+
 
 ## Contents
 

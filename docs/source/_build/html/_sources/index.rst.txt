@@ -8,8 +8,8 @@ Projects
 - `IGVC 2024 - Horizon <#horizon>`_
 - `Project 2 <#project-2>`_
 
-Horizon
-=======
+IGVC 2024 - Horizon
+=========
 
 .. toctree::
     :maxdepth: 1
@@ -27,3 +27,4 @@ Project 2
     :caption: Project 2 Subpages
 
     electrical_project_2
+

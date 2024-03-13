@@ -13,7 +13,6 @@ Horizon
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    horizon
 
@@ -23,6 +22,5 @@ FUCK
 
 .. toctree::
     :maxdepth: 2
-    :caption: Contents:
 
     horizon

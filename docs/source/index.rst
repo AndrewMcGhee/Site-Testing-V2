@@ -7,8 +7,6 @@ Robotics Association at Oakland University
    :alt: Picture
    :width: 400px
 
-   Caption: Siva is yet to respond.
-
 
 
 Projects

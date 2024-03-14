@@ -2,7 +2,7 @@
 Robotics Association at Oakland University
 ==============
 
-.. image:: C:\Users\andmc\Documents\GitHub\Site-Testing-V2\docs\source\Screenshot 2024-03-13 213907.png
+.. image:: Screenshot 2024-03-13 213907.png
    :align: center
    :alt: Picture
    :width: 400px

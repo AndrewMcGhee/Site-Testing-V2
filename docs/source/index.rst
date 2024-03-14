@@ -2,12 +2,12 @@
 Robotics Association at Oakland University
 ==============
 
-.. image:: Fuck.png
+.. figure:: Fuck.png
    :align: center
    :alt: Picture
    :width: 400px
 
-
+   Caption: I still haven't gotten a response :(
 
 Projects
 --------

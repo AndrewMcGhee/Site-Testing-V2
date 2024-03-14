@@ -2,7 +2,7 @@
 Robotics Association at Oakland University
 ==============
 
-.. image:: Screenshot 2024-03-13 213907.png
+.. image:: Fuck.png
    :align: center
    :alt: Picture
    :width: 400px

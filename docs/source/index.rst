@@ -7,7 +7,7 @@ Robotics Association at Oakland University
    :alt: Picture
    :width: 400px
 
-   Caption: I still haven't gotten a response :(
+   I still haven't gotten a response :(
 
 Projects
 --------
